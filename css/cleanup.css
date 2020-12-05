@@ -17,7 +17,7 @@ body div#wall .parent #tag-5.slick{
   display:none;
   
 }
-
+/* added to pass override test*/
 body div#wall .parent #tag-5.slick{
   display:none;
   
